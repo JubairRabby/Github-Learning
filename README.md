@@ -60,3 +60,6 @@ https://www.rokomari.com/islam
 
 ### Disable Link
 `https://www.cricbuzz.com/`
+
+### Markdown Link
+[Islamic Online Madrasha](https://portal.iom.edu.bd/)
