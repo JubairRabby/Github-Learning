@@ -54,3 +54,9 @@ Good bye Mr. Code
 - [x]Task1
 - [x]Task2
 - []Task3
+
+### Direct Link
+https://www.rokomari.com/islam
+
+### Disable Link
+`https://www.cricbuzz.com/`
