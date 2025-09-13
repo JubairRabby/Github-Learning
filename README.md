@@ -12,4 +12,5 @@ Now i am 32 years old. </p>
 
 <i> This is italic case </i>  
 <b> This is Bold Case</b>  
-<del> This is strikethrough  </del>
+<del> This is strikethrough  </del>  
+'In line Code'
