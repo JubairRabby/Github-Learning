@@ -14,3 +14,6 @@ Now i am 32 years old. </p>
 <b> This is Bold Case</b>  
 <del> This is strikethrough  </del>  
 `In line Code`
+```This is Multiple line code
+Here is Going on
+Good bye Mr. Code```
