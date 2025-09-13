@@ -10,5 +10,6 @@ This is Second Line
 I have Complited my graduation and post graduation from Rajshahi University.  
 Now i am 32 years old. </p>
 
-<i> This is italic case </i>
-<b> This is Bold Case</b>
+<i> This is italic case </i>  
+<b> This is Bold Case</b>  
+<u> This line is underline </u>
