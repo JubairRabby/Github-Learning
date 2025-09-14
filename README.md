@@ -74,4 +74,9 @@ https://www.rokomari.com/islam
 ### Emoji
 😃 😊 👆  🤲  🌳  ☘️  🍓  ⚽️  🚙
 
+### Table
+|Id|Name|Address|
+|----|----|----|
+|1001|Abdullah|Dinajpur|
+
 
