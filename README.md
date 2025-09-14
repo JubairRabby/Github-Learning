@@ -67,5 +67,6 @@ https://www.rokomari.com/islam
 ### Comment
 <!-- This is Commenting -->
 
-![IMG_20250212_134320](https://github.com/user-attachments/assets/cdb5e12d-cecd-48d6-b2f1-d62fba6ebde1)
+### Image
+![My Logo](images/me.jpg)
 
