@@ -69,6 +69,6 @@ https://www.rokomari.com/islam
 
 ### Image
 ![me](https://github.com/user-attachments/assets/cd41b12d-9882-4096-8559-d00dbf285905)
-<img src"./image/my.jpg"/>
+<img src="images/my.jpg" alt="My Logo" width="200"/>
 
 
